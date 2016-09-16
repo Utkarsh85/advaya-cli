@@ -4,6 +4,7 @@ var createPackageJson= require('./createPackageJson');
 var createAppJs= require('./createAppJs');
 var createAdvayaConfig= require('./createAdvayaConfig');
 var createGetApi= require('./createGetApi');
+var createGetToken= require('./createGetToken');
 var createConfigFiles= require('./createConfigFiles');
 
 module.exports= function (program) {
@@ -19,6 +20,7 @@ module.exports= function (program) {
 		createAppJs(folderName);
 		createAdvayaConfig(folderName);
 		createGetApi(folderName);
+		createGetToken(folderName);
 		createConfigFiles(folderName);
 	});
 
