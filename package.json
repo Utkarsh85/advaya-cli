@@ -1,0 +1,30 @@
+{
+  "name": "advaya-cli",
+  "version": "1.0.0",
+  "description": "Advaya cli",
+  "main": "index.js",
+  "dependencies": {
+    "js-beautify": "^1.6.2",
+    "commander": "^2.9.0",
+    "mkdirp": "^0.5.1",
+    "path-exists": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utkarsh85/advaya-cli.git"
+  },
+  "keywords": [
+    "advaya",
+    "cli"
+  ],
+  "author": "Utkarsh85",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Utkarsh85/advaya-cli/issues"
+  },
+  "homepage": "https://github.com/Utkarsh85/advaya-cli#readme"
+}
