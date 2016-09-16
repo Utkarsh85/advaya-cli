@@ -8,7 +8,7 @@ module.exports= function (program) {
 
 	program
 	.command('create <folderName>')
-	.description('create a quail project')
+	.description('create a advaya project')
 	.action(function(folderName){
 		// console.log(folderName);
 		checkAndCreateFolder(folderName);
