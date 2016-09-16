@@ -17,6 +17,9 @@
     "type": "git",
     "url": "git+https://github.com/Utkarsh85/advaya-cli.git"
   },
+  "bin": {
+    "advaya": "./index.js"
+  },
   "keywords": [
     "advaya",
     "cli"
