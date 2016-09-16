@@ -2,6 +2,8 @@ var checkAndCreateFolder= require('./checkAndCreateFolder');
 var createRequiredFolders= require('./createRequiredFolders');
 var createPackageJson= require('./createPackageJson');
 var createAppJs= require('./createAppJs');
+var createAdvayaConfig= require('./createAdvayaConfig');
+var createGetApi= require('./createGetApi');
 var createConfigFiles= require('./createConfigFiles');
 
 module.exports= function (program) {
