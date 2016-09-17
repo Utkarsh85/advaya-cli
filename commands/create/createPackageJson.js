@@ -18,11 +18,11 @@ module.exports=function (folderName) {
 		"author": "anonymous",
 		"license": "",
 		"dependencies": {
-			"advaya": "^0.0.0",
-			"advaya-mongo": "^0.0.0",
-			"advaya-model-controller": "^0.0.0",
-			"advaya-token": "^0.0.0",
-			"advaya-validation": "^0.0.0"
+			"advaya": "^1.0.0",
+			"advaya-mongo": "^1.0.0",
+			"advaya-model-controller": "^1.0.0",
+			"advaya-token": "^1.0.0",
+			"advaya-validation": "^1.0.0"
 		}
 	}
 
