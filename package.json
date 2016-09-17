@@ -1,6 +1,6 @@
 {
   "name": "advaya-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Advaya cli",
   "main": "index.js",
   "dependencies": {
